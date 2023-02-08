@@ -1,0 +1,2 @@
+export const OPENWEATHERKEY = 'fe6547251c29c6e6706b71e19a6c3bba'
+export const OPENWEATHERAPIENDPOINT = `http://api.openweathermap.org/data/2.5/onecall?&units=metric&exclude=minutely&appid=${OPENWEATHERKEY}`
